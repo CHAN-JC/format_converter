@@ -13,11 +13,11 @@ For image to PDF, formats below are accepted:
 Input: .png .bmp .jpeg(known as jpg) .jfif .webp .tiff .dng(known as RAW file) .heic(known as heif)
 
 # Credits
-Special thanks to the contributors below for providing resource files.
-<a href="https://www.flaticon.com/free-icons/convert" title='convert icons'>Convert icons created by iconixar - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/eye" title="eye icons">Eye icons created by Kiranshastry - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/password" title="password icons">Password icons created by th studio - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/down-arrow" title="down arrow icons">Down arrow icons created by Arkinasi - Flaticon</a>
-Photo by <a href="https://unsplash.com/@danielleone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Leone</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-<a href="https://www.flaticon.com/free-icons/checkbox" title="checkbox icons">Checkbox icons created by twentyfour - Flaticon</a>
+Special thanks to the contributors below for providing resource files.\n
+<a href="https://www.flaticon.com/free-icons/convert" title='convert icons'>Convert icons created by iconixar - Flaticon</a>\n
+<a href="https://www.flaticon.com/free-icons/eye" title="eye icons">Eye icons created by Kiranshastry - Flaticon</a>\n
+<a href="https://www.flaticon.com/free-icons/password" title="password icons">Password icons created by th studio - Flaticon</a>\n
+<a href="https://www.flaticon.com/free-icons/down-arrow" title="down arrow icons">Down arrow icons created by Arkinasi - Flaticon</a>\n
+Photo by <a href="https://unsplash.com/@danielleone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Leone</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>\n
+<a href="https://www.flaticon.com/free-icons/checkbox" title="checkbox icons">Checkbox icons created by twentyfour - Flaticon</a>\n
 <a href="https://www.flaticon.com/free-icons/checkbox" title="checkbox icons">Checkbox icons created by flatart_icons - Flaticon</a>
