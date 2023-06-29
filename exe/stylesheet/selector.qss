@@ -1,0 +1,134 @@
+QPushButton:hover{
+ background-color: rgb(106, 161, 173);
+}
+QPushButton:pressed{
+	background-color: qlineargradient(spread:pad, x1:0, y1:0.0568182, x2:1, y2:1, stop:0 rgba(14, 41, 84, 255), stop:0.333333 rgba(31, 110, 140, 255), stop:0.572139 rgba(46, 138, 153, 255), stop:0.850746 rgba(132, 167, 161, 255));
+}
+QPushButton{
+color: white;
+font: 75 15pt "ZHSRXT-GBK";
+border-radius: 5px;
+border: 2px solid white;
+}
+QPushButton#output{
+color: white;
+font: 75 14pt "ZHSRXT-GBK";
+border-radius: 5px;
+border: 2px solid white;
+}
+QComboBox {
+	font: 13pt "ZHSRXT-GBK";
+	color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 2px 18px 2px 7px;
+}
+QComboBox QAbstractItemView {
+    border: 2px solid white;
+	border-radius: 5px;
+    selection-background-color: qlineargradient(spread:pad, x1:0, y1:0.0568182, x2:1, y2:1, stop:0 rgba(132, 167, 161, 255), stop:0.383085 rgba(46, 138, 153, 255), stop:0.606965 rgba(31, 110, 140, 255), stop:1 rgba(14, 41, 84, 255));
+    color: black;
+	background-color: rgba(0,0,0,0);
+}
+QComboBox:on{
+    padding-top: 3px;
+    padding-left: 8px;
+}
+QComboBox::drop-down{
+	color: red;
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 15px;
+    border-left-width: 1px;
+    border-left-color: white;
+    border-left-style: solid;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+QComboBox::down-arrow {
+    image: url(resources/icon/down.png);
+}
+
+QComboBox::down-arrow:on {
+    top: 1px;
+    left: 1px;
+}
+QComboBox:!editable,QComboBox::drop-down:!editable {
+	background-color: rgba(0,0,0,0);
+}
+QSlider::groove:horizontal {
+    border: 1px solid white;
+    height: 18px;
+    background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(238, 174, 202, 255), stop:1 rgba(148, 187, 233, 255));
+    margin: 2px 4px;
+	border-radius: 10px;
+}
+
+QSlider::handle:horizontal {
+    background: qlineargradient(spread:pad, x1:0, y1:0.0568182, x2:1, y2:1, stop:0 rgba(132, 167, 161, 255), stop:0.383085 rgba(46, 138, 153, 255), stop:0.606965 rgba(31, 110, 140, 255), stop:1 rgba(14, 41, 84, 255));
+    border: 1px solid white;
+    width: 20px;
+	margin: -2px -4px;
+    border-radius: 11px;
+}
+QSlider::handle:horizontal:hover{
+	background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(46, 137, 203, 255), stop:1 rgba(255, 255, 255, 255));
+}
+QLabel#value_show{
+font: 75 15pt "ZHSRXT-GBK";
+color: white;
+}
+QLabel#qua_text,#size_text,#format_text,#page_text,#dpi_text{
+font: 75 14pt "ZHSRXT-GBK";
+color: white;
+}
+QLabel#elapsed{
+font: 75 13pt "ZHSRXT-GBK";
+color: white;
+}
+QTextBrowser#show_output{
+font: 75 14pt "ZHSRXT-GBK";
+color: white;
+border: 2px solid white;
+border-radius: 5px;
+background-color: rgba(255,255,255,0.1);
+}
+QCheckBox{
+	font: 13pt "ZHSRXT-GBK";
+	color: white;
+}
+QCheckBox::indicator{
+	width: 30px;
+	height: 30px;
+}
+QCheckBox::indicator:checked{
+   image: url(resources/icon/checked.png);
+}
+QCheckBox::indicator:unchecked{
+   image: url(resources/icon/unchecked.png);
+}
+QLineEdit{
+	font: 75 13pt "ZHSRXT-GBK";
+	color: white;
+	background: rgba(0,0,0,0);
+	border:2px solid white;
+	border-radius: 5px;
+	padding: 0 8px;
+}
+/*
+QSlider::add-page:horizontal {
+background: transparent;
+border: 1px solid qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(2, 0, 36, 255), stop:0.35 rgba(9, 9, 121, 255), stop:1 rgba(0, 212, 255, 255));
+height: 25px;
+border-radius: 4px;
+margin: 1px;
+}
+QSlider::sub-page:horizontal {
+background: transparent;
+border: 1px solid qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(2, 0, 36, 255), stop:0.35 rgba(9, 9, 121, 255), stop:1 rgba(0, 212, 255, 255));
+height: 25px;
+border-radius: 4px;
+margin: 1px;
+}
+*/
