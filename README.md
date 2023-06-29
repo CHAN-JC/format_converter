@@ -5,11 +5,14 @@ This application provides image to image, PDF to image and text, image to PDF, P
 
 # Image to Image
 For image to image, formats below are accepted:<br>
-Input: .png .bmp .jpeg(known as jpg) .jfif .webp .tiff .dng(known as RAW file) .heic(known as heif)
 
+Input: PNG, BMP, JPEG(known as jpg), JFIF, WEBP, TIFF, DNG(known as RAW file), HEIC(known as heif) <br>
+
+Output: PNG, BMP, JPEG(known as jpg), WEBP, TIFF, ICO
 # Image to PDF
 For image to PDF, formats below are accepted:<br>
-Input: .png .bmp .jpeg(known as jpg) .jfif .webp .tiff .dng(known as RAW file) .heic(known as heif)
+
+Input: PNG, BMP, JPEG(known as jpg), JFIF, WEBP, TIFF, DNG(known as RAW file), HEIC(known as heif)
 
 # Credits
 Special thanks to the contributors below for providing resource files.<br>
