@@ -1,9 +1,11 @@
 # Format Converter (v2.3.0) 
 <a href="https://github.com/CHAN-JC/format_converter/tree/02905445b91b50f53043b52d78deed533b0c9f70/exe" title='app'>Download here</a><br>
 
-A format convert application writes by Python.<br>
+A format convert application written by Python.<br>
 
-This application provides image to image, PDF to image and text, image to PDF, PDF encryption and decryption, PDF combination.
+Support in English, Simplified Chinese, and Traditional Chinese.
+
+This application provides image-to-image, PDF-to-image and text, image-to-PDF, PDF encryption and decryption, and PDF combination.
 
 # Image to Image
 For image to image, formats below are accepted:<br>
@@ -12,7 +14,7 @@ Input: PNG, BMP, JPEG(known as jpg), JFIF, WEBP, TIFF, DNG(known as RAW file), H
 
 Output: PNG, BMP, JPEG(known as jpg), WEBP, TIFF, ICO
 # Image to PDF
-For image to PDF, formats below are accepted:<br>
+For image-to-PDF, formats below are accepted:<br>
 
 Input: PNG, BMP, JPEG(known as jpg), JFIF, WEBP, TIFF, DNG(known as RAW file), HEIC(known as heif)
 
