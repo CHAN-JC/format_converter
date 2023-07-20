@@ -1,7 +1,7 @@
 # Format Converter (v2.3.0) 
 <a href="https://github.com/CHAN-JC/format_converter/tree/02905445b91b50f53043b52d78deed533b0c9f70/exe" title='app'>Download here</a><br>
 
-A format convert application written by Python.<br>
+A format convert application written by Python, Gui written by Pyside2.<br>
 
 Support in English, Simplified Chinese, and Traditional Chinese.
 
